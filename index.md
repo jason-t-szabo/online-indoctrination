@@ -49,9 +49,10 @@ Fifty years ago, young people spent more time socializing in person, in civic gr
 
 - **Be a trusted listener**: For parents, teachers, and friends, noticing sudden shifts in language or worldview, and asking about it with genuine curiosity rather than condemnation, can keep the door open.
 - **Normalize help-seeking**: Encourage counseling and peer-support options as valid, non-stigmatized choices. Many extremists are first drawn in because they feel unseen or powerless, and they don't know where else to comfortably seek support.
-- **Build family toolkits**: Simple steps like co-watching videos, talking about what is currently trending in social media feeds, and setting shared tech boundaries for youth (being "next to" them, rather than policing over the shoulder or with parental control software).
+- **Build family toolkits**: Simple steps like co-watching videos, talking about what shows up in social media feeds, and setting shared tech boundaries for youth (being "next to" them, rather than policing over the shoulder or with parental control software).
 - **Mentorship and role models**: Positive mentorship fills the same need for identity and belonging that extremist recruiters exploit. Promote vocational apprenticeship programs.
 
 ## Closing
 
 We cannot pretend indoctrination only happens "somewhere else." It is happening in gaming chats, in meme streams, in comment sections. The good news is that we can also build resilience in those same spaces, along with offline communities. Reconnection, literacy, awareness and caring relationships are the strongest inoculations we have. If we start treating indoctrination like the public-health and community challenge it is, rather than strictly a law-enforcement and political issue, we stand a better chance of reducing harm and increasing safety and belonging.
+
